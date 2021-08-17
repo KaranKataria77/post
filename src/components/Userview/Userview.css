@@ -1,0 +1,9 @@
+.userview-grid{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.userview-grid > h2{
+    padding-left: 10px;
+}
